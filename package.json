@@ -1,0 +1,22 @@
+{
+  "name": "alexa_lunch",
+  "version": "1.0.0",
+  "description": "Get the HPA Lunch using an Alexa Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdean808/hpalunch_alexa.git"
+  },
+  "author": "Morgan DEan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdean808/hpalunch_alexa/issues"
+  },
+  "homepage": "https://github.com/mdean808/hpalunch_alexa#readme",
+  "dependencies": {
+    "ask-sdk": "^2.3.0"
+  }
+}
